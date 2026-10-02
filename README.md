@@ -2,3 +2,8 @@
 
 # Tuff 
 Tuff is a volcanic rock made from compacted ash.
+
+Tuff brings many benefits, including:
+- Exfoliation
+- Ash-ctual strength
+- Really cool looking
