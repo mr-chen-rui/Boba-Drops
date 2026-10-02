@@ -25,10 +25,10 @@ a {
 div {
 	display:flex;
 	flex-wrap:wrap;
-	gep:8px;
+	gap:8px;
 }
 img {
-  flex: 1 1 25%;
+  flex: 1 1 150px;
   height: 200px;
   object-fit: cover;
 }
